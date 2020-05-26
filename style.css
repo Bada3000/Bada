@@ -1,10 +1,28 @@
- a {
-	 color:red;
-   margin:150px;
-	}
-p {
-	color:green;
-	front-size:37px;
+ #glava { /*Montilian life*/
+	 color:RosyBrown;
+   font-size:100px;
+   font-style: oblique;
+   text-align: center;
+  }
+   
+ #opisanie { /*остальной тест*/
+	color:RoyalBlue;
+	font-size:20px;
+	text-align: left 20;
+	 te
+   }
+    
+ html { /*цвет фона*/
+   background-color:BlanchedAlmond;
+}
+
+  
+
+
+ 
+ 
+   
+ 
 	
 	
-	}
+    
